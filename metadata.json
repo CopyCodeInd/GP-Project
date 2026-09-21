@@ -1,0 +1,6 @@
+{
+  "name": "Gram Panchayat Planning Platform",
+  "description": "Integrated rural planning platform for PM-GP consultations, scheme correlation, SVAMITVA digital twin, geotagged citizen requests, and LSDG convergence.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
